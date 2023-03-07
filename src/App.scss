@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.slick-slider {
+  position: relative;
+}
+.slick-slider .slick-prev {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  display: block;
+  width: 30px;
+  height: 30px;
+  transform: rotate(-400deg);
+  cursor: pointer;
+  color: transparent;
+  border: 5px solid black;
+  border-right: none;
+  border-bottom: none;
+  outline: none;
+  font-size: none;
+}
+.slick-slider .slick-next {
+  position: absolute;
+  top: 50%;
+  right: 0px;
+  display: block;
+  width: 30px;
+  height: 30px;
+  transform: rotate(-400deg);
+  cursor: pointer;
+  color: transparent;
+  border: 5px solid black;
+  border-top: none;
+  border-left: none;
+  outline: none;
+  font-size: none;
+}

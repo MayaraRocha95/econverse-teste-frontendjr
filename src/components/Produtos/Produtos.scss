@@ -1,0 +1,77 @@
+
+.containerProduct {
+  margin-top: 50px;
+  max-width: 90vw;
+  margin-left: 70px;
+}
+.containeriphone {
+  max-height: 500px;
+  max-width: 270px;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px;
+  background: #ffffff;
+  box-shadow: 0px 3px 19px rgba(0, 0, 0, 0.22);
+  border-radius: 10px;
+  text-align: left;
+  margin-bottom: 10px;
+ 
+}
+.containeriphone img {
+  text-align: center;
+}
+.containeriphone p {
+  margin-left: 11px;
+}
+.plorem {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 22px;
+  color: #3f3f40;
+}
+.oldvalue {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #808080;
+  text-decoration: line-through;
+  margin-bottom: 0;
+}
+.newvalue {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #3f3f40;
+  margin-top: 0;
+}
+.valueparcel {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #3f3f40;
+}
+.freight {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #f71963;
+}
+.containeriphone button {
+  height: 44px;
+  width: 245px;
+  background: #f71963;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: auto auto 10px 10px;
+  border: transparent;
+  cursor: pointer;
+}
+.containeriphone button:hover {
+  background-color: rgb(216, 18, 84);
+  font-weight: 900;
+  font-size: 15px;
+}

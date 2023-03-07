@@ -1,0 +1,84 @@
+.containertopo {
+  display: flex;
+  width: 100%;
+  height: 32px;
+}
+.containertopo div {
+  margin-left: 100px;
+  margin-top: 7px;
+}
+.containertopo div:first-child {
+  margin-left: 430px;
+}
+.containertopo p {
+  margin-top: 9px;
+  margin-left: 10px;
+  color: rgba(159, 159, 159, 1);
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
+.containertopo span {
+  color: #f71963;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+}
+.containerinput {
+  max-width: 1280px;
+  min-width: 700px;
+  max-height: 72px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 17px;
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 10px;
+}
+.containerinput div {
+  position: relative;
+}
+.containerinput div input {
+  width: 555px;
+  height: 48px;
+  border-radius: 10px 0 0 10px;
+  border: transparent;
+  background: #f7f5f2;
+  margin-top: 12px;
+  position: relative;
+}
+.containerinput div .busca {
+  height: 50px;
+  border-radius: 0 10px 10px 0;
+  border: transparent;
+  background: #f7f5f2;
+  position: absolute;
+  top: 12px;
+  cursor: pointer;
+}
+.containerinput svg {
+  font-size: 25px;
+  color: #9f9f9f;
+  margin-top: 3px;
+}
+.containerinput .icons {
+  display: flex;
+  margin-top: 25px;
+}
+.containerinput .icons img {
+  margin-left: 35.5px;
+  cursor: pointer;
+}
+.containerinput input::placeholder {
+  width: 196px;
+  height: 21px;
+  color: #9f9f9f;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  padding-left: 24px;
+}
+.containerinput div {
+  margin-top: 10px;
+  cursor: pointer;
+}

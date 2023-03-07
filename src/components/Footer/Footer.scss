@@ -1,0 +1,147 @@
+.containerfooter {
+  max-width: 100%;
+  height: 325px;
+  border: 1px solid black;
+  margin-top: 169px;
+  display: flex;
+  background: #2a2a2a;
+}
+.containerfooter a {
+  width: 160px;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.containerfooter a:hover {
+  color: #c0c0c0;
+  font-size: 13px;
+}
+.quemsomos {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 59px 93px 42px 120px;
+}
+.titlefooter {
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 20px;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+.redesociais {
+  margin-top: 63px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.redesociais svg {
+  font-size: 1.5em;
+  color: #ffffff;
+  margin-right: 30px;
+  cursor: pointer;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 59px;
+}
+.containercart {
+  margin: 59px auto auto 90px;
+  text-align: left;
+}
+.bandeiras img {
+  margin: auto 25px 10px auto;
+}
+
+.bandeiras {
+  flex-direction: row;
+  display: flex;
+}
+form {
+  height: 260px;
+  max-width: 380px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  border: none;
+  text-align: left;
+  margin-top: 35px;
+  margin-right: 100px;
+}
+form h1 {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  margin: 40px 70px 15px 32px;
+}
+form h1 strong {
+  font-size: 21px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+form p {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 19px;
+  color: #3f3f40;
+  width: 310px;
+  height: 38px;
+  text-align: center;
+  margin-left: 36px;
+}
+form input {
+  height: 45px;
+  width: 220px;
+  background: #ffffff;
+  border: 1px solid #2a2a2a;
+  border-radius: 4px;
+  margin-left: 40px;
+}
+form input::placeholder {
+  text-transform: uppercase;
+  padding-left: 25px;
+  color: #c0c0c0;
+}
+form button {
+  height: 45px;
+  width: 62px;
+  left: 1168px;
+  top: 208px;
+  border-radius: 4px;
+  background: #f71963;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+  border: none;
+  margin-left: 9px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+form button:hover {
+  background-color: #2a2a2a;
+}
+.econversevtex {
+  border-top: 1px solid white;
+  width: 99, 8%;
+  height: 72px;
+  display: flex;
+  background-color: #2a2a2a;
+}
+.econversevtex p {
+  max-width: 698px;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 22px 318px 22px 120px;
+}
+.econversevtex div {
+  margin: 19px 220px 19px auto;
+}
