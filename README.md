@@ -1,33 +1,60 @@
-# Teste Econverse: Vaga Desenvolvedor Front-End Jr
+<h1 align="center">Loja Virtual Vtex</h1>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://linkedin.com/in/mayaraaraujorocha/" target="_blank">
+  </a>
+</p>
 
-### Vem ser #Econverse!
+**Descrição**
+Este é um projeto desenvolvido com React que tem como objetivo criar uma loja virtual com diversas categorias de produtos. A loja oferece uma variedade de produtos relacionados a tecnologia, supermercado, bebidas, ferramentas, saúde, esportes e moda.
 
-Segue abaixo as instruções para a execução do teste.
+### Página do projeto
+![Econverse](https://user-images.githubusercontent.com/98711190/223573525-029f2f9b-7bfb-4684-8f54-12049cb49205.png)
 
-## Instruções
-- Faça um fork desse projeto para a sua conta pessoal do GitHub.
-- Crie um README com as instruções para compilar, testar e rodar o projeto.
-- O link do repositório deverá ser enviado para o e-mail ana.nascimento@econverse.com.br e pedro@econverse.com.br com o título **Teste Vaga FrontEnd Jr**
+### Modal
+![EconverseModal](https://user-images.githubusercontent.com/98711190/223573578-68f36000-eca1-436a-b60b-b5fcbc1a4c5e.png)
 
-## Especificações Técnicas
-- Desenvolver a pagina em html conforme o layout nesse [Link](https://www.figma.com/file/rWnzPeoxgynuNPsJjV0VmV/Teste-Front-End-Jr?node-id=0%3A1). Para conseguir pegar os elementos do Figma, basta copiar o layout para sua conta que terá acesso de edição.
-- Montar a [Vitrine](https://app.econverse.com.br/teste-front-end/junior/tecnologia/layout/vitrine-produtos.png) de produtos consumindo as informações dos produtos em json atraves desse [Link](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) com uso de React.js.
-- Desenvolver a interação ao clicar em um produto conforme layout. A interação consiste em abrir um modal com as principais informações do produto presente no arquivo [JSON](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) conforme o produto que clicar.
-- Desenvolver os Htmls semânticos.
-- Utilizar Pré-processador Sass, Less ou Stylus.
-- Respeitar o Layout pixel a pixel, tamanho das fontes, cores e botões.
-- Não Utilizar Frameworks como Bootstrap, Foundation, ou afins.
 
-## Pontos Extras
-- Utilizar Automatizadores de Tarefas como: (Grunt, Gulp ou outros).
-- Utilizar Boas práticas de SEO.
-- Organização do Projeto.
 
-## O que avaliaremos em seu teste
-- Organização do projeto
-- Lógica do código
-- Identação do código
-- Uso de componentização
-- Alcance dos objetivos propostos
 
-**Boa sorte! ;)**
+
+### :nut_and_bolt: Tecnologias
+
+Esse projeto foi desenvolvido com a seguinte técnologias:
+
+- [React][reactjs]
+- [React Icons][reacticons]
+- [Sass][saasjs]
+- [React Slick][slick]
+
+
+[reactjs]: https://reactjs.org
+[reacticons]: https://react-icons.github.io/react-icons/
+[saasjs]: https://sass-lang.com/
+[slick]:https://react-slick.neostack.com/docs/get-started/
+
+
+#### :thinking: Como rodar
+
+```bash
+
+
+# Clone o repositório
+git clone https://github.com/MayaraRocha95/econverse-teste-frontendjr/
+
+# Entre no diretório
+cd econverse-teste-frontendjr
+
+# Instale as depedências
+npm install
+
+# Rode o projeto
+npm start
+```
+
+
+#### Autor
+
+👤 **Mayara Araujo Rocha**
+
+- LinkedIn: [@Mayara](linkedin.com/in/mayaraaraujorocha/)
